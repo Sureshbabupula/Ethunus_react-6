@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroImage from "../assets/Pula Suresh Babu.jpg";
+import HeroImage from "../assets/Pula Suresh Babu.JPG";
 import { MdOutlineKeyboardArrowRight } from 'react-icons/md';
 import { Link } from 'react-scroll';
 
